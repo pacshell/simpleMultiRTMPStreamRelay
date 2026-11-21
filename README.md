@@ -1,4 +1,4 @@
-# Multi RTMP Stream Relay
+# Simple Multi RTMP Stream Relay
 
 
 
